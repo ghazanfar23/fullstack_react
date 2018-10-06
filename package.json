@@ -1,0 +1,26 @@
+{
+  "name": "retort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "9.7.1",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghazanfar23/retort.git"
+  },
+  "author": "Ghazanfar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghazanfar23/retort/issues"
+  },
+  "homepage": "https://github.com/ghazanfar23/retort#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
