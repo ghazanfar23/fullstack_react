@@ -1,0 +1,22 @@
+{
+  "name": "retort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghazanfar23/retort.git"
+  },
+  "author": "Ghazanfar Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghazanfar23/retort/issues"
+  },
+  "homepage": "https://github.com/ghazanfar23/retort#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
