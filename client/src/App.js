@@ -9,9 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Hi There
+<a href="/auth/google">Sign in with google!</a>
           </p>
-          <a href="http://localhost:5000/auth/google">Sign in with google</a>
           <a
             className="App-link"
             href="https://reactjs.org"
